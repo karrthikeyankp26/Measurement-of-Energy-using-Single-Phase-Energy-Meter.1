@@ -1,4 +1,4 @@
-# MEASUREMENT-OF-ENERGY-USING-SINGLE-PHASE-ENERGY-METER.
+# MEASUREMENT-OF-ENERGY-USING-SINGLE-PHASE-ENERGY-METER
 
 ## Aim:
 To measure energy using Single Phase Energy Meter
@@ -50,6 +50,9 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 ## Output Waveform:
 
 ## Result:
+<img width="1093" height="860" alt="dc shunt - virtual lab" src="https://github.com/user-attachments/assets/ee906cc8-86fc-4dc2-b2e5-3b70b1ffbf27" />
+Thus the energy consumed in a single phase circuit is measured.
+
 
 
 
